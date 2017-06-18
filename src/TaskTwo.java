@@ -1,5 +1,5 @@
-import Model.Matrix;
-import View.Result;
+import model.Matrix;
+import view.Result;
 
 /**
  * Created by ivand on 14.06.2017.
