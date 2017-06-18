@@ -1,6 +1,6 @@
-package View;
+package view;
 
-import Model.Matrix;
+import model.Matrix;
 
 /**
  * Created by ivand on 14.06.2017.

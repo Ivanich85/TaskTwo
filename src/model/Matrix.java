@@ -1,6 +1,6 @@
-package Model;
+package model;
 
-import Input.MatrixSize;
+import input.MatrixSize;
 
 /**
  * Created by ivand on 14.06.2017.
